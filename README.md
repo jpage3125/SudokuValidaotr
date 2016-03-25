@@ -1,1 +1,1 @@
-# SudokuValidaotr
+# SudokuValidator
